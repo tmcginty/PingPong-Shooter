@@ -98,7 +98,7 @@ public class Robot extends IterativeRobot {
 		
 	    // start looking for a target
 //	    huntForTarget();
-//	    headUp(kMaxVerticalAngle);
+	    headUp(kMinVerticalAngle);
 	}
 	
 	@Override
